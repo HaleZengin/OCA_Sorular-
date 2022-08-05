@@ -1,6 +1,6 @@
 package com.oracleSorulari;
 
-public class Soru4_StringManupulation {
+public class Soru4_StringManipulation {
 
     public static void main(String[] args) {
 
