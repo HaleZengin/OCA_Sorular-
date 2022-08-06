@@ -6,7 +6,8 @@ public class Soru3_Switch {
 
         // soruda output ne olur
 
-        final char a = 'A', d='D'; // final keyword'u  variable'in son degerini belirler
+        final char a = 'A', d='D';
+        // final keyword'u  variable'in son degerini belirler. artik a ve d icin yeni deger atayamayiz.
 
         char grade='B';
 
@@ -17,6 +18,10 @@ public class Soru3_Switch {
             case  d :
             case 'F': System.out.print("not good");
         }
+
+        // a ve d nin degerleri verilirken final keyword'u kullanildigi icin case icine a ve d yazabildik.
+        // eger final olmasaydi case icine 'A' ve 'D' olan degerleri yazmak gerekirdi.
+
 
     }
 }
