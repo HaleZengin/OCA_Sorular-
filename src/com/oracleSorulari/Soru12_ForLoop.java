@@ -23,7 +23,9 @@ public class Soru12_ForLoop {
 
         /*
         bu sorunun cevabi F dir.
-        ama i=i++ yerine sadece i++ deseydi ya da i=i+1 deseydi sonsuz donguye girmezdi. ve 10 tane Hello World yazardi
+        ama i=i++ yerine sadece i++ deseydi ya da i=i+1 ya da ++i deseydi sonsuz donguye girmezdi. ve 10 tane Hello World yazardi
+        i=i++ ifadesi post increment dir. yani once i' ye atama yapar sonra i' yi 1 arttırır.
+        burada i 0' dir. Hello World yazdirir. sonra tekrar for' un icine girer. yine i=0'dan baslar yine Hello World yazdirir ve sonsuz dondu olur
 
          */
     }
