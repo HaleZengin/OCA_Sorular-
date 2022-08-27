@@ -14,7 +14,6 @@ public class Soru18_ForLoop {
         System.out.println(count);
     }
 }
-
             /*
             kod bulogu calisirsa sonuc ne olur?
 
@@ -32,4 +31,3 @@ public class Soru18_ForLoop {
         tekrar loop calisir ve ilk for loop' taki sart saglanamayana kadar devam eder ve en sonunda yazdirma kismina gelir.
         cevap B
         */
-
