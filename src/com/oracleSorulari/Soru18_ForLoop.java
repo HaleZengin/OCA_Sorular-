@@ -11,6 +11,7 @@ public class Soru18_ForLoop {
                 if(row * col % 2 == 0) continue ROW_LOOP;
                 count++;
             }
+
         System.out.println(count);
     }
 }
