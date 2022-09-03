@@ -15,6 +15,7 @@ public class Soru18_ForLoop {
         System.out.println(count);
     }
 }
+
             /*
             kod bulogu calisirsa sonuc ne olur?
 
