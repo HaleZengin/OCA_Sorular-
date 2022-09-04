@@ -27,6 +27,7 @@ public class Soru18_ForLoop {
             F. 11. Satirdan dolayi kod calismaz.
              */
 
+
         /*
         if' in icindeki sart false olunca if' ten sonraki continue bolumu calismayacak count' u 1 arttiracak ve tekrar inner loop'a donecek
         if' in icindeki sart true olunca if' ten sonraki continue bolumu calisir ve loop en basa doner. burada count arttirilmadan basa doner
