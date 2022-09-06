@@ -36,6 +36,14 @@ public class Soru19_Arrays {
         // 3. array
         // String beans[] = new beans[6];      sorun var  beans[6] yerine String[6] yazilmaliydi
 
+        // 4. array
+        // int[][] types = new int[];          hem array boyutlari eksik hem eleman sayisi yazilmamis
+        int [][] types = new int[5][1];        //gibi yapilabilir
+
+        // 5. array
+        // int[][] java = new int[][];          eleman sayisi yazilmamis
+        int[][] java = new int[2][];           // gibi yapilabilir
+
 
 
 
