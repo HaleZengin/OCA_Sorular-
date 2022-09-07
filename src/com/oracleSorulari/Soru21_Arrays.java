@@ -19,6 +19,13 @@ public class Soru21_Arrays {
         G. None of the above.
          */
 
+        /*
+        Array' lerde capaciy metodu ve size metodu yoktur. length metodu vardir
+
+        cevap C
+
+         */
+
 
 
     }
