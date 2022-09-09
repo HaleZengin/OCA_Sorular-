@@ -21,5 +21,11 @@ public class Soru27_List {
         F. Kod exception olusturur.
          */
 
+        /*
+        burada once array list'e donusturulmus siralanmis sonra list array'e cevrilmis.
+        siralama yaptigi icin artik lk index -1 olur
+        cevap A
+         */
+
     }
 }
