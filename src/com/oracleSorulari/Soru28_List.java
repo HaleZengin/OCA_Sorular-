@@ -32,5 +32,6 @@ public class Soru28_List {
         yani array'in de 0. index'i Sue olur
          */
 
+
     }
 }
