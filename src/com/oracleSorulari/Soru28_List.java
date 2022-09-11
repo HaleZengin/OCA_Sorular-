@@ -21,6 +21,7 @@ public class Soru28_List {
         E. Kod exception olusturur.
          */
 
+
         /*
         cevap D
          */
