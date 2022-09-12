@@ -13,6 +13,7 @@ public class Soru28_List {
         list.set(0, "Sue");
         System.out.println(names[0]);
 
+
         /*
         A. Sue
         B. Tom
