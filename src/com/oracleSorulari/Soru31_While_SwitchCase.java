@@ -15,6 +15,7 @@ public class Soru31_While_SwitchCase {
                 case 1: x += 5;
             }
         }
+
         System.out.println(x);
     }
 }
