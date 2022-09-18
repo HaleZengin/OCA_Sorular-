@@ -17,7 +17,6 @@ public class Soru32_MetotKullanımı {
 
 }
 
-
      /*
         A. 10
         B. 15
