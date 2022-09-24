@@ -3,6 +3,7 @@ package com.oracleSorulari;
 public class Soru32_MetotKullanımı {
 
     public static void addToInt(int x, int amountToAdd) {
+
         x = x + amountToAdd;
     }
 
