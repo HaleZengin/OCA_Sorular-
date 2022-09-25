@@ -26,7 +26,8 @@ public class Soru32_MetotKullanımı {
         D. 6.satirdan dolayi kod calismaz
         E. 11.satirdan dolayi kod calismaz
         F. Yukaridakilerden hicbiri.
-      */
+     */
+
     /*
     cevap B
-     */
+    */
