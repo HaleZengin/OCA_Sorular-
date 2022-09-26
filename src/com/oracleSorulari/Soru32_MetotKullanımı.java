@@ -8,6 +8,7 @@ public class Soru32_MetotKullanımı {
     }
 
     public static void main(String[] args) {
+
         int a = 15;
         int b = 10;
         Soru32_MetotKullanımı.addToInt(a, b);
