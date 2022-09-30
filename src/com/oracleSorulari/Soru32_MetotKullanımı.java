@@ -11,7 +11,9 @@ public class Soru32_MetotKullanımı {
 
         int a = 15;
         int b = 10;
+
         Soru32_MetotKullanımı.addToInt(a, b);
+
         // addToInt metodu yukarida var. a yerine int x olur, b yerine int amountToAdd gelir.
         // 6. satirda bir atama var x yerine 15+10=25 olur ama bu kalici degildir.
         // yukaridaki metot calistiktan sonra 11. satira geri gelir ve burada x yine 15' dir. 15. satirda sonuc 15 olur.
