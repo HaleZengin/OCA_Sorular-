@@ -9,11 +9,11 @@ public class Soru33_ArrayVeList {
 
         int[] array = {6,9,8};
         List<Integer> list = new ArrayList<>();
-        list.add(array[0]);
-        list.add(array[2]);
-        list.set(1, array[1]);
-        list.remove(0);
-        System.out.println(list);
+        list.add(array[0]);             // 6 eklenir
+        list.add(array[2]);             // 8 eklenir
+        list.set(1, array[1]);          // 1. index deki 8 elemanı arrayin 1. indexi ile degistir. {6 , 9 }
+        list.remove(0);           // 6 yi kaldir
+        System.out.println(list);       // sadece 9 kalir
     }
 
      /*
@@ -25,9 +25,9 @@ public class Soru33_ArrayVeList {
         */
 
     /*
-
+    cevap B
      */
 
     }
 
-}
+
