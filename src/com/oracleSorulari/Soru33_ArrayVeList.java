@@ -24,9 +24,9 @@ public class Soru33_ArrayVeList {
         E. Kod calismaz.
         */
 
-    /*
-    cevap B
-     */
+        /*
+        cevap B
+        */
 
     }
 
