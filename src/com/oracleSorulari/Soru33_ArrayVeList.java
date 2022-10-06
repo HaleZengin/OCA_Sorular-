@@ -28,6 +28,7 @@ public class Soru33_ArrayVeList {
         cevap B
         */
 
+
     }
 
 
