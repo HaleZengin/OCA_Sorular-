@@ -8,6 +8,7 @@ public class Soru33_ArrayVeList {
     public static void main(String[] args) {
 
         int[] array = {6,9,8};
+
         List<Integer> list = new ArrayList<>();
         list.add(array[0]);             // 6 eklenir
         list.add(array[2]);             // 8 eklenir
