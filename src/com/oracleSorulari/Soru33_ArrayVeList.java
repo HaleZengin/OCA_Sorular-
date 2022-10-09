@@ -15,6 +15,7 @@ public class Soru33_ArrayVeList {
         list.set(1, array[1]);          // 1. index deki 8 elemanı arrayin 1. indexi ile degistir. {6 , 9 }
         list.remove(0);           // 6 yi kaldir
         System.out.println(list);       // sadece 9 kalir
+
     }
 
      /*
