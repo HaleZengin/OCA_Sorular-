@@ -12,6 +12,7 @@ public class Soru34_NestedLoop {
                 x += 4;
                 j++;
             } while(j <= 2);
+
         System.out.println(x);
 
         /*
