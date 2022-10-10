@@ -26,7 +26,7 @@ public class Soru34_NestedLoop {
 
         /*
         cevap B
-         */
+        */
 
     }
 }
