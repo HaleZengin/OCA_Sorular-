@@ -24,5 +24,9 @@ public class Soru34_NestedLoop {
         F. 10.satirdan dolayi kod calismaz
         */
 
+        /*
+        cevap B
+         */
+
     }
 }
