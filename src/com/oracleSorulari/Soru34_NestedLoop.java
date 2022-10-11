@@ -5,6 +5,7 @@ public class Soru34_NestedLoop {
     public static void main(String[] args) {
 
         int x = 5, j = 0;
+
         OUTER: for(int i=0; i<3; )
             INNER: do {
                 i++; x++;
