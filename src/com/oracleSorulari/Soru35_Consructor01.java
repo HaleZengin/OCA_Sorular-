@@ -4,13 +4,13 @@ public class Soru35_Consructor01 {
 
     int count;
 
-    public void Constructor01() {
+    public void Constructor01() {       // constructor gibi gorunur ama bu metot' tur.
         count = 4;
     }
 
     public static void main(String[] args) {
-        Soru35_Consructor01 cns = new Soru35_Consructor01();
-        System.out.println(cns.count);
+        Soru35_Consructor01 cns = new Soru35_Consructor01();    // burada gecen constructor default constructor' dir. gorunmez.
+        System.out.println(cns.count);                          // buradaki count instance variable' dir. deger atanmadigi icin default deger yani 0 olur.
 
     }
 
