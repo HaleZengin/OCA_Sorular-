@@ -15,13 +15,17 @@ public class Soru35_Consructor01 {
     }
 
 
-            /*
-            A. 0
-            B. 4
-            C. 7.satirdan dolayi kod calismaz
-            D. 8.satirdan dolayi kod calismaz
-            E. 12.satirdan dolayi kod calismaz
-            F. 13.satirdan dolayi kod calismaz
-             */
+    /*
+    A. 0
+    B. 4
+    C. 7.satirdan dolayi kod calismaz
+    D. 8.satirdan dolayi kod calismaz
+    E. 12.satirdan dolayi kod calismaz
+    F. 13.satirdan dolayi kod calismaz
+    */
+
+    /*
+    cevap A
+     */
 
 }
