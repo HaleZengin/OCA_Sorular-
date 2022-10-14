@@ -4,7 +4,7 @@ public class Soru35_Consructor01 {
 
     int count;
 
-    public void Constructor01() {       // constructor gibi gorunur ama bu metot' tur.
+    public void Constructor01() {                               // constructor gibi gorunur ama bu metot' tur.
         count = 4;
     }
 
