@@ -8,6 +8,7 @@ public class Soru35_Consructor01 {
         count = 4;
     }
 
+
     public static void main(String[] args) {
         Soru35_Consructor01 cns = new Soru35_Consructor01();    // burada gecen constructor default constructor' dir. gorunmez.
         System.out.println(cns.count);                          // buradaki count instance variable' dir. deger atanmadigi icin default deger yani 0 olur.
