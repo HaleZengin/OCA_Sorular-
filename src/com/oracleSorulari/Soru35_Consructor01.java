@@ -29,4 +29,5 @@ public class Soru35_Consructor01 {
     cevap A
      */
 
+
 }
