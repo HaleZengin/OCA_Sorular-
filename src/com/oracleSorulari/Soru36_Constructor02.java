@@ -6,7 +6,7 @@ public class Soru36_Constructor02 {
     int num;
     public Soru36_Constructor02(int num) {
         // INSERT CODE HERE
-        this.num = num;
+        this.num = num;         // soruya C sikki yazilmali
     }
     public static void main(String[] args) {
         System.out.println(new Soru36_Constructor02(50).num);
@@ -21,5 +21,9 @@ public class Soru36_Constructor02 {
         C. this.num = num;
         D. Yukaridakilerden hicbiri
         */
+
+        /*
+        cevap C
+         */
 
 
