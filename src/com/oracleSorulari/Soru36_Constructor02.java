@@ -10,6 +10,7 @@ public class Soru36_Constructor02 {
     }
 
     public static void main(String[] args) {
+
         System.out.println(new Soru36_Constructor02(50).num);
     }
 }
