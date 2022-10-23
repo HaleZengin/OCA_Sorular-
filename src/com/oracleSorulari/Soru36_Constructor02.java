@@ -24,6 +24,7 @@ public class Soru36_Constructor02 {
         D. Yukaridakilerden hicbiri
         */
 
+
         /*
         cevap C
          */
