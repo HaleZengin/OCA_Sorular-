@@ -18,6 +18,7 @@ public class Soru36_Constructor02 {
         /*
         asagidaki satirlardan hangisi 8. satira yazilarak consructor tamamlanirsa
         kod calistiginda 50 ciktisini verir?
+
         A. num = num;
         B. num = this.num;
         C. this.num = num;
