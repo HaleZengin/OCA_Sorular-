@@ -7,6 +7,7 @@ public class Soru36_Constructor02 {
     public Soru36_Constructor02(int num) {
         // INSERT CODE HERE
         this.num = num;         // soruya C sikki yazilmali
+
     }
 
     public static void main(String[] args) {
