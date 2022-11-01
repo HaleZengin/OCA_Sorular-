@@ -24,6 +24,7 @@ public class Soru36_Constructor02 {
         B. num = this.num;
         C. this.num = num;
         D. Yukaridakilerden hicbiri
+
         */
 
 
