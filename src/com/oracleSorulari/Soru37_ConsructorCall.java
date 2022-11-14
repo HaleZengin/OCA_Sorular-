@@ -28,4 +28,5 @@ public class Soru37_ConsructorCall {
         System.out.print(dnm.x * dnm.y);
     }
 
+
 }
