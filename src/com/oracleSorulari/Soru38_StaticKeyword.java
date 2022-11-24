@@ -29,4 +29,15 @@ class ConsLength {
             F. Kod calisir ancak exception olusur.
              */
 
+    /*
+    ayni sayfa uzerinde 2 class yapilmis.
+    static olan length variabla' ina her yerden ulasilabilir.
+    ulasmak icin aslinda obje olusturmaya gerek yoktur.
+    ana obje uzerinde de olur.
+    obje yapmasaydik class adi . yaparak length' e ulasirdik.
+
+
+    cvp B
+     */
+
 
