@@ -36,6 +36,11 @@ class ConsLength {
     ana obje uzerinde de olur.
     obje yapmasaydik class adi . yaparak length' e ulasirdik.
 
+    6. satirda length static variabla' i tanimlanmis.
+    13. satirda obje uzerinden bu variable' a ulasilmis ve consolda 0 yazdirir.
+    sonra main metot icinde once length variable' ina 2 degeri, sonra 8 degeri atanmis.
+    artil length' in son degeri 8' dir.
+    20. satirda 8 yazdirir. daha once 0 yazdirmisti. bu yuzden 08 yazar.
 
     cvp B
      */
