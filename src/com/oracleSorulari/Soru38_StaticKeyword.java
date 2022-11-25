@@ -20,6 +20,7 @@ class ConsLength {
         System.out.println(cons1.length);
     }
 }
+
             /*
             A. 02
             B. 08
