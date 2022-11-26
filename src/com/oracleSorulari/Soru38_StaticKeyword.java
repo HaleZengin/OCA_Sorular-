@@ -30,6 +30,7 @@ class ConsLength {
             F. Kod calisir ancak exception olusur.
              */
 
+
     /*
     ayni sayfa uzerinde 2 class yapilmis.
     static olan length variabla' ina her yerden ulasilabilir.
@@ -44,6 +45,7 @@ class ConsLength {
     20. satirda 8 yazdirir. daha once 0 yazdirmisti. bu yuzden 08 yazar.
 
     cvp B
+
      */
 
 
