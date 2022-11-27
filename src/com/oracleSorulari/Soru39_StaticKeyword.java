@@ -32,3 +32,20 @@ public class Soru39_StaticKeyword {
         F. Kod calismaz.
         G. Kod calisir ama exception olusur.
  */
+
+  /*
+        once static blok devreye girer. (value=ta) sonra main metot calisir.
+        18. satir calisir. burada f diye bir parametre koyulmus yani parametreli constructor calisir.
+        ama static olmadigi icin once static olmayan blok calisir (value=tac)
+        artik parametreli constructor calisir. burada s variable' inin degerini f vermis
+        bu yuzden value degerine f eklenir.(tacf)
+        burada m' nin degerini k yapariz.
+        19. satir calisir. burada m degeri instance variable oldugu icin daha once degistirdigimiz k kalici degildir yine m= m olur.
+        19. satirda parametresiz constructor' a gider ama oncesinde yine static olmayan blok calisir (value=tacfc) olur
+        sonra parametresiz constructor calisir.
+        m' nin degeri h olur. ve value degerine b eklenir. (value=tacfcb)
+        20. satira doner. (tacfcb+h) consolda gorulur.
+
+        cvp
+
+  */
