@@ -46,6 +46,6 @@ public class Soru39_StaticKeyword {
         m' nin degeri h olur. ve value degerine b eklenir. (value=tacfcb)
         20. satira doner. (tacfcb+h) consolda gorulur.
 
-        cvp
+        cvp D
 
   */
