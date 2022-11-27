@@ -2,15 +2,15 @@ package com.oracleSorulari;
 
 public class Soru39_StaticKeyword {
 
-    String m="m";
-    static String value = "t";
-    static{ value += "a"; }
-    { value += "c"; }
-    public Soru39_StaticKeyword() {
+    String m="m";                               // instance variable
+    static String value = "t";                  // static variable
+    static{ value += "a"; }                     // static blok
+    { value += "c"; }                           // static olmayan blok
+    public Soru39_StaticKeyword() {             // parametresiz constructor
         m="h";
         value += "b";
     }
-    public Soru39_StaticKeyword(String s) {
+    public Soru39_StaticKeyword(String s) {     // parametreli constructor
         value += s;
         m="k";
     }
