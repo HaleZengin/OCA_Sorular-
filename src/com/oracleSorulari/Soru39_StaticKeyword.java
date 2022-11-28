@@ -33,6 +33,7 @@ public class Soru39_StaticKeyword {
         G. Kod calisir ama exception olusur.
  */
 
+
   /*
         once static blok devreye girer. (value=ta) sonra main metot calisir.
         18. satir calisir. burada f diye bir parametre koyulmus yani parametreli constructor calisir.
