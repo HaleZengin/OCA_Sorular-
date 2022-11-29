@@ -26,3 +26,12 @@ public class Soru40_PassByValue {
     }
 
 }
+
+    /*
+    A= [1,2,3]
+    B= [1,4,3]
+    C= Java
+    D= JAVA
+    E= 19. satirdan dolayi kod calismaz
+
+    */
