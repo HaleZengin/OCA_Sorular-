@@ -28,6 +28,7 @@ public class Soru40_PassByValue {
 }
 
     /*
+    Dogru olabilecek siklari isaretleyiniz?
     A= [1,2,3]
     B= [1,4,3]
     C= Java
@@ -35,3 +36,14 @@ public class Soru40_PassByValue {
     E= 19. satirdan dolayi kod calismaz
 
     */
+
+    /*
+    her bir metotdun kendi scope' u vardir. 1. metotda yapilan degisiklikler main metodu degistirmez.
+    16. satir daki str Java yazdirir.
+    array' lerdeki degisiklik kalici olur. 2. metotdaki yapilan degisiklik main metotdu degistirir.
+    13. satir yazdirildiginda [1,4,3] olur.
+    3. metotda yeni bir array olusturulmus. burada referansi ayni ama heap memory' de farkli bir array olusur ve main metotdaki arr' yi degistirmez.
+    15. satir yazdirildiginda yine [1,4,3] olur.
+
+    cvp B ve D
+     */
