@@ -45,5 +45,5 @@ public class Soru40_PassByValue {
     3. metotda yeni bir array olusturulmus. burada referansi ayni ama heap memory' de farkli bir array olusur ve main metotdaki arr' yi degistirmez.
     15. satir yazdirildiginda yine [1,4,3] olur.
 
-    cvp B ve D
+    cvp B ve C
      */
