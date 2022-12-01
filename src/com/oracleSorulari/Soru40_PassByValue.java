@@ -28,6 +28,7 @@ public class Soru40_PassByValue {
 }
 
     /*
+
     Dogru olabilecek siklari isaretleyiniz?
     A= [1,2,3]
     B= [1,4,3]
