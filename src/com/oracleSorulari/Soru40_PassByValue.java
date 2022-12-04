@@ -39,6 +39,7 @@ public class Soru40_PassByValue {
     */
 
     /*
+
     her bir metotdun kendi scope' u vardir. 1. metotda yapilan degisiklikler main metodu degistirmez.
     16. satir daki str Java yazdirir.
     array' lerdeki degisiklik kalici olur. 2. metotdaki yapilan degisiklik main metotdu degistirir.
