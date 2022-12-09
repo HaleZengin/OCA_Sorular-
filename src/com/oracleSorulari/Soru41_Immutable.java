@@ -26,6 +26,7 @@ public class Soru41_Immutable {
     /*
     eger bir objenin degerini degistiremiyorsak buna immutable denir.
 
+    cvp A C D
      */
 
 
