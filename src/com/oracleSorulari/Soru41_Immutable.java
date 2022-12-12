@@ -24,6 +24,7 @@ public class Soru41_Immutable {
         F. Kod Calismaz.
      */
 
+
     /*
     eger bir objenin degerini degistiremiyorsak buna immutable denir.
 
