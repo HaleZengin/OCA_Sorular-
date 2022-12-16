@@ -19,10 +19,12 @@ public class Soru42_DateTime {
 
 
             /*
+
             A. 2012/05/08 09:22 AM
             B. 2012/5/08 9:22
             C. 2012/05/08 09:22
             D. 2012/03/10 09:22
             E. Kod Calismaz
             F. Kod calisir ama exeption olusur
+
             */
