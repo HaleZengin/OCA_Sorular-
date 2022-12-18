@@ -34,4 +34,5 @@ public class Soru42_DateTime {
             Period class'i ile belli bir zaman aralığı belirtilebilir
             12. satirda d objesi ile yazilan tarihten p kadar zaman cikarilmis demek
             13. satirda gosterdigi formatta yazilacak
+            cvp C
              */
