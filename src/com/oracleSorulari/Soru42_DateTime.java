@@ -28,3 +28,10 @@ public class Soru42_DateTime {
             F. Kod calisir ama exeption olusur
 
             */
+
+            /*
+            LocalDate, LocalTime, LocalDateTime class'lari ile zamanlar belirtilebilir
+            Period class'i ile belli bir zaman aralığı belirtilebilir
+            12. satirda d objesi ile yazilan tarihten p kadar zaman cikarilmis demek
+            13. satirda gosterdigi formatta yazilacak
+             */
