@@ -29,6 +29,7 @@ public class Soru42_DateTime {
 
             */
 
+
             /*
             LocalDate, LocalTime, LocalDateTime class'lari ile zamanlar belirtilebilir
             Period class'i ile belli bir zaman aralığı belirtilebilir
