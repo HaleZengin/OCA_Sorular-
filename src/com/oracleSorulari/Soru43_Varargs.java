@@ -24,3 +24,10 @@ public class Soru43_Varargs {
     }
 
 }
+
+    /*
+    compile time error veren kismi yorum satirina aliniz.
+    consoleda cikan sonuc ne olur?
+     */
+
+
