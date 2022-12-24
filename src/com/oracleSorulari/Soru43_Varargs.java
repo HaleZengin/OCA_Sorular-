@@ -25,6 +25,7 @@ public class Soru43_Varargs {
 
 }
 
+
     /*
     compile time error veren kismi yorum satirina aliniz.
     console'da cikan sonuc ne olur?
