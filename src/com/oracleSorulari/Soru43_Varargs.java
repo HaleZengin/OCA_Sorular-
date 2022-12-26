@@ -21,6 +21,7 @@ public class Soru43_Varargs {
         //vrg.m1(67,"Hello","Hi");
         vrg.m1('c',75,80,90);                   // ilk parametre char ama 2. string degil. o yuzden c' yi ascıı degerini alarak 1. metot calisacak. b nin lenght'i 3 yazdirir
         vrg.m1('d',"Hello");                    // 2. metot calisir. 1 yazdirir
+
     }
 
 }
