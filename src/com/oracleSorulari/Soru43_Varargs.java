@@ -32,10 +32,10 @@ public class Soru43_Varargs {
     console'da cikan sonuc ne olur?
      */
 
+
     /*
     varargs ile metotlarda istedigimiz kadar parametre gonderebiliriz.
     bu parametreler array olmus olur. index numaralarini yazarak yazdirilir.
     cvp: 4, 3, 1 yazdirir
-
 
      */
