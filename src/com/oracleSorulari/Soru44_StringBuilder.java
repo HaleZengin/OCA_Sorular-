@@ -13,13 +13,13 @@ public class Soru44_StringBuilder {
         StringBuilder s1 = new StringBuilder("s1");                     // s1 objesi oluturulmus
         StringBuilder s2 = new StringBuilder("s2");                     // s2 objesi oluturulmus
         StringBuilder s3 = work(s1, s2);                                // s3 objesi oluturulmus
-        System.out.println("s1 = " + s1);
-        System.out.println("s2 = " + s2);
-        System.out.println("s3 = " + s3);
+        System.out.println("s1 = " + s1);                               // s1 = s1
+        System.out.println("s2 = " + s2);                               // s2 = s2    sonra degisir ve s2b olur
+        System.out.println("s3 = " + s3);                               // s3 = a
     }
 }
 
-/*
+    /*
         Uyan siklari isaretleyiniz
         A. s1 = a
         B. s1 = s1
@@ -28,4 +28,8 @@ public class Soru44_StringBuilder {
         E. s3 = a
         F. s3 = null
         G. Kod calismaz.
- */
+    */
+
+    /*
+    cvp B, D, E
+    */
