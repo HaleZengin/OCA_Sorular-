@@ -3,16 +3,16 @@ package com.oracleSorulari;
 public class Soru44_StringBuilder {
 
 
-    public static StringBuilder work(StringBuilder a,
+    public static StringBuilder work(StringBuilder a,                   // metot olusturulmus
                                      StringBuilder b) {
         a = new StringBuilder("a");
         b.append("b");
         return a;
     }
     public static void main(String[] args) {
-        StringBuilder s1 = new StringBuilder("s1");
-        StringBuilder s2 = new StringBuilder("s2");
-        StringBuilder s3 = work(s1, s2);
+        StringBuilder s1 = new StringBuilder("s1");                     // s1 objesi oluturulmus
+        StringBuilder s2 = new StringBuilder("s2");                     // s2 objesi oluturulmus
+        StringBuilder s3 = work(s1, s2);                                // s3 objesi oluturulmus
         System.out.println("s1 = " + s1);
         System.out.println("s2 = " + s2);
         System.out.println("s3 = " + s3);
