@@ -9,6 +9,7 @@ public class Soru44_StringBuilder {
         b.append("b");
         return a;
     }
+
     public static void main(String[] args) {
         StringBuilder s1 = new StringBuilder("s1");                     // s1 objesi oluturulmus
         StringBuilder s2 = new StringBuilder("s2");                     // s2 objesi oluturulmus
