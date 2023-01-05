@@ -10,6 +10,7 @@ public class Soru44_StringBuilder {
         return a;
     }
 
+
     public static void main(String[] args) {
 
         StringBuilder s1 = new StringBuilder("s1");                     // s1 objesi oluturulmus
