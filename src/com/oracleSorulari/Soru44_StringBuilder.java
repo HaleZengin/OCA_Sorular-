@@ -27,6 +27,7 @@ public class Soru44_StringBuilder {
 
     /*
         Uyan siklari isaretleyiniz
+
         A. s1 = a
         B. s1 = s1
         C. s2 = s2
